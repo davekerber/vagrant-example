@@ -9,7 +9,7 @@ This is an example Vagrant configuration that will:
 
 The box is is running Ubuntu 12.04
 
-With this setup, you should be able to immediatley start building Ruby apps that use PosgreSQL
+With this setup, you should be able to immediately start building Ruby apps that use PostgreSQL
 
 ## Usage
 	git clone git://github.com/davekerber/vagrant-example.git
