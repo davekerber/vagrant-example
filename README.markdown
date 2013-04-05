@@ -15,7 +15,7 @@ With this setup, you should be able to immediately start building Ruby apps that
 	git clone git://github.com/davekerber/vagrant-example.git
 	cd vagrant-example
 	vagrant up
-
+If you want an example of a `vagrant_setup.rb` you can put into your home folder just copy `vagrant_setup_example.rb` to your home folder as `vagrant_setup.rb` and edit to your hearts content!
 
 
 
